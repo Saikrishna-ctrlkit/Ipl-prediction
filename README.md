@@ -1,5 +1,6 @@
 # 🏏 IPL Score & Match Prediction
 ### *Real-time Cricket Intelligence using Machine Learning*
+🌐 Live App: https://ipl-prediction-tkitlhbkdu9ddqcqgk4pss.streamlit.app/
 
 <div align="center">
 
