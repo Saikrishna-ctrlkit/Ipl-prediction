@@ -350,6 +350,6 @@ If you found this project helpful, please give it a **⭐ Star** on GitHub!
 
 <div align="center">
 
-*Made with ❤️ and 🏏 by [Your Name]*
+*Made with ❤️ and 🏏 by G SAI KRISHNA*
 
 </div>
